@@ -1,0 +1,16 @@
+.shared {
+  background-color:rgb(234, 112, 173);
+  font-family: "Comic Sans", Verdana, "DejaVu Sans", sans-serif;
+}
+#second {
+  color:rgb(0, 0, 255);
+  font-size: 36px;
+}
+.third {
+  font-size: 24px;
+}
+#fourth {
+  background-color: rgb(103, 232, 103);
+  font-size: 24px;
+  font-weight: 700;
+}
