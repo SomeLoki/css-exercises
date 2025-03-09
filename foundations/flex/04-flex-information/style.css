@@ -15,6 +15,13 @@
   text-align: center;
 }
 
+.barberry,
+.chilli,
+.pepper,
+.saffron {
+  max-width: 200px;
+}
+
 
 img {
   width: 100px;
